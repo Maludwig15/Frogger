@@ -1,6 +1,3 @@
-/**
- * Created by michael_hopps on 2/13/17.
- */
 public class Frog extends Sprite {
 
     public Frog(){
