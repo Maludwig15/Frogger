@@ -1,6 +1,4 @@
-/**
- * Created by michael_hopps on 2/14/17.
- */
+
 public class Obstacle extends Sprite {
 
 
